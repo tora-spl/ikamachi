@@ -1,1 +1,127 @@
-{}
+[
+ {
+  "vsStageId": 1,
+  "name": "ユノハナ大渓谷",
+  "commonsId": "yunohana"
+ },
+ {
+  "vsStageId": 2,
+  "name": "ゴンズイ地区",
+  "commonsId": "district"
+ },
+ {
+  "vsStageId": 3,
+  "name": "ヤガラ市場",
+  "commonsId": "yagara"
+ },
+ {
+  "vsStageId": 4,
+  "name": "マテガイ放水路",
+  "commonsId": "temple"
+ },
+ {
+  "vsStageId": 5,
+  "name": "ナンプラー遺跡",
+  "commonsId": "factory"
+ },
+ {
+  "vsStageId": 6,
+  "name": "ナメロウ金属",
+  "commonsId": "scrap"
+ },
+ {
+  "vsStageId": 7,
+  "name": "クサヤ温泉",
+  "commonsId": "bigslope"
+ },
+ {
+  "vsStageId": 8,
+  "name": "タラポートショッピングパーク",
+  "commonsId": "section"
+ },
+ {
+  "vsStageId": 9,
+  "name": "ヒラメが丘団地",
+  "commonsId": "jyoheki"
+ },
+ {
+  "vsStageId": 10,
+  "name": "マサバ海峡大橋",
+  "commonsId": "kaisou"
+ },
+ {
+  "vsStageId": 11,
+  "name": "キンメダイ美術館",
+  "commonsId": "pivot"
+ },
+ {
+  "vsStageId": 12,
+  "name": "マヒマヒリゾート＆スパ",
+  "commonsId": "hiagari"
+ },
+ {
+  "vsStageId": 13,
+  "name": "海女美術大学",
+  "commonsId": "upland"
+ },
+ {
+  "vsStageId": 14,
+  "name": "チョウザメ造船",
+  "commonsId": "nagasaki"
+ },
+ {
+  "vsStageId": 15,
+  "name": "ザトウマーケット",
+  "commonsId": "line"
+ },
+ {
+  "vsStageId": 16,
+  "name": "スメーシーワールド",
+  "commonsId": "carousel"
+ },
+ {
+  "vsStageId": 17,
+  "name": "コンブトラック",
+  "commonsId": "wave"
+ },
+ {
+  "vsStageId": 18,
+  "name": "マンタマリア号",
+  "commonsId": "pillar"
+ },
+ {
+  "vsStageId": 19,
+  "name": "タカアシ経済特区",
+  "commonsId": "spider"
+ },
+ {
+  "vsStageId": 20,
+  "name": "オヒョウ海運",
+  "commonsId": "twist"
+ },
+ {
+  "vsStageId": 21,
+  "name": "バイガイ亭",
+  "commonsId": "cross"
+ },
+ {
+  "vsStageId": 22,
+  "name": "ネギトロ炭鉱",
+  "commonsId": "ruins"
+ },
+ {
+  "vsStageId": 23,
+  "name": "カジキ空港",
+  "commonsId": "propeller"
+ },
+ {
+  "vsStageId": 24,
+  "name": "リュウグウターミナル",
+  "commonsId": "autowalk"
+ },
+ {
+  "vsStageId": 26,
+  "name": "デカライン高架下",
+  "commonsId": "crank"
+ }
+]
